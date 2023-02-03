@@ -1,11 +1,11 @@
 ## Project Overview
 For this project, I attempted to predict the number of points scored by each team in tonight's NBA games. Currently, the model uses the following variables:
 
-+Average points per game (PPG)
-+Average PPG for the last three games
-+Opponents adjusted defensive rating
-+Days of rest
-+Home / Away
+-Average points per game (PPG)<br>
+-Average PPG for the last three games<br>
+-Opponents adjusted defensive rating<br>
+-Days of rest<br>
+-Home / Away<br>
 
 Additional explanatory variables potentially include net rating, and opponents PPG allowed in the last three games
 
